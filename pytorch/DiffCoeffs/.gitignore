@@ -1,0 +1,6 @@
+data/*
+data_backup/*
+lightning_logs/*
+dataset_test/*
+sympy_cache/*
+.ipynb_checkpoints/*

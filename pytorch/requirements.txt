@@ -1,0 +1,10 @@
+torch
+torch_scatter
+-f https://data.pyg.org/whl/torch-2.0.0+cpu.html
+torch_geometric
+numpy
+scipy
+pyamg
+pytorch_lightning
+matplotlib
+dill
